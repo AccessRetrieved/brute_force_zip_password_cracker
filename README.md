@@ -1,6 +1,9 @@
 # Brute force zip files password cracker
 This is a repository on brute force zip files password cracker.
 
+## NOTE
+Since the wordlist.txt is approx. 133 MB, which is over Github's 25 MB file upload limit. That file will be compressed to a .zip file. Please extract before using.
+
 ## Installation
 - [zipfile2](https://pypi.org/project/zipfile2/): `pip install zipfile2`
 - [tqdm](https://pypi.org/project/tqdm/): `pip install tqdm`
