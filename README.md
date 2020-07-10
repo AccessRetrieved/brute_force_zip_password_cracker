@@ -10,5 +10,5 @@ This is a repository on brute force zip files password cracker.
 2.fill out the path to the password protected zip file on line 6.
 
 ## Running the program
-1.`cd PATH TO THE FOLDER WHERE THE PROGRAM IS STORED.py`
+1.`cd PATH TO THE FOLDER WHERE THE PROGRAM IS STORED.py`\
 2.`python brute_force_zip_1.py`
