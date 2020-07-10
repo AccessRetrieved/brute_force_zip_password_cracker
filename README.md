@@ -9,7 +9,7 @@ Since the rockyou.txt is approx. 133 MB, which is over Github's 25 MB file uploa
 - [tqdm](https://pypi.org/project/tqdm/): `pip install tqdm`
 
 ## Usage
-1.fill out the path to the rockyou.txt file on line 5.
+1.fill out the path to the rockyou.txt file on line 5.\
 2.fill out the path to the password protected zip file on line 6.
 
 ## Running the program
