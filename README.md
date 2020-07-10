@@ -2,8 +2,8 @@
 This is a repository on brute force zip files password cracker.
 
 ## Installation
-- zipfile: `pip install zipfile2` [click here](https://pypi.org/project/zipfile2/)
-- tqdm: `pip install tqdm` [click here](https://pypi.org/project/tqdm)
+- zipfile: `pip install zipfile2` [pypi.org](https://pypi.org/project/zipfile2/)
+- tqdm: `pip install tqdm` [pypi.org](https://pypi.org/project/tqdm)
 
 
 ## Usage
