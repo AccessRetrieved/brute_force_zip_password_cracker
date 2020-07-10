@@ -2,9 +2,8 @@
 This is a repository on brute force zip files password cracker.
 
 ## Installation
-- zipfile: `pip install zipfile2` [pypi.org](https://pypi.org/project/zipfile2/)
-- tqdm: `pip install tqdm` [pypi.org](https://pypi.org/project/tqdm)
-
+- [zipfile2](https://pypi.org/project/zipfile2/): `pip install zipfile2`
+- [tqdm](https://pypi.org/project/tqdm/): `pip install tqdm`
 
 ## Usage
 1.fill out the path to the worldlist on line 5.
