@@ -1,4 +1,4 @@
-# Brute force zip files password cracker
+# Crackin passwords made (stupidly) simple
 This is a repository on brute force zip files password cracker.
 
 ## NOTE'
