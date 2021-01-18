@@ -2,8 +2,8 @@ import zipfile
 from tqdm import tqdm
 from time import sleep
 
-wordlist = r"C:\Users\bestf\OneDrive\Documents\Other\Python1\os\password\wordlist.txt"
-zip_file = r"C:\Users\bestf\OneDrive\Documents\JoyToKey.zip"
+wordlist = "PATH TO WORDLIST"
+zip_file = "PATH TO PASSWORD-PROTECTED ZIP FILE"
 zip_file = zipfile.ZipFile(zip_file)
 n_words = len(list(open(wordlist, "rb")))
 print("Total passwords to test:", n_words)
