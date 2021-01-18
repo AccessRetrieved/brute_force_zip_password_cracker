@@ -1,5 +1,5 @@
 # Cracking passwords made (stupidly) simple
-This is a repository on brute force zip files password cracker.
+Brute force zip files.
 
 ## NOTE
 Since the rockyou.txt is approx. 133 MB, which is over Github's 25 MB file upload limit. You can download 'rockyou.txt' [here](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt).
