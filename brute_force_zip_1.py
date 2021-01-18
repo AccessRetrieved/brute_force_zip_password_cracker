@@ -4,6 +4,7 @@ from time import sleep
 
 wordlist = "PATH TO WORDLIST"
 zip_file = "PATH TO PASSWORD-PROTECTED ZIP FILE"
+
 zip_file = zipfile.ZipFile(zip_file)
 n_words = len(list(open(wordlist, "rb")))
 print("Total passwords to test:", n_words)
@@ -17,4 +18,5 @@ with open(wordlist, "rb") as wordlist:
             print("[+] Password found:", word.decode().strip())
             sleep(8)
             exit(0)
-print("[!] Password not found, try other wordlist.")
+            
+print("[!] Password not found")
